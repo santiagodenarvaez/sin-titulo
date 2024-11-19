@@ -2,7 +2,7 @@ const url = 'https://api.flickr.com/services/rest/?';
 
 const parametros = {
   method: 'flickr.people.getPublicPhotos',
-  user_id: '185741681@N03', // Cambiar para usar otra colección de fotos.
+  user_id: '191055893@N07', // Cambiar para usar otra colección de fotos.
   api_key: '2512f39372e99a27a692abc3bae34fde',
   nojsoncallback: '1',
   // per_page: '10',
